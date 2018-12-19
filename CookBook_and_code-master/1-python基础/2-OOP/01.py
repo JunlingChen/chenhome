@@ -22,7 +22,7 @@ class PythonStudent():
     # 1. def doHomework的缩进层级
     # 2. 系统默认由一个self参数
     def doHomework(self):
-        print("I 在做作业")
+        print("我在做作业呢")
 
         # 推荐在函数末尾使用return语句
         return None
