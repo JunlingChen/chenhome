@@ -38,7 +38,7 @@ print(id(math.fabs(a)))
 print(sum([1, 2, 3, 4.0]))
 print(sum([1, 2, 3, 4]))
 
-#求和，来自math模块，返回浮点值11111
+#求和，来自math模块，返回浮点值
 
 print(math.fsum([1, 2, 3, 4]))
 
